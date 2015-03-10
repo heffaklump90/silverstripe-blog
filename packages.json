@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "heffaklump90/blog": {
+            "dev-master": { @composer.json }
+        }
+    }
+}
