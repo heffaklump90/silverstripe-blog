@@ -1,6 +1,6 @@
 {
     "packages": {
-        "heffaklump90/blog": {
+        "bra/blog": {
             "dev-master": { @composer.json }
         }
     }
