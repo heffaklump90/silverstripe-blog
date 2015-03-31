@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "bra/blog": {
+            "dev-master": { @composer.json }
+        }
+    }
+}
